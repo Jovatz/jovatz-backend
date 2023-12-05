@@ -1,0 +1,6 @@
+@jovatz_backend_HostAddress = http://localhost:5153
+
+GET {{jovatz_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
